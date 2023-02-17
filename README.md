@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FaisalKhan19
 - ✨ I'm a sophomre @ZHCET, AMU, Aligarh, India
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently working on Deep learning and Recommender systems
-- 💞️ I’m looking to collaborate on Deep Recommender systems
+- 🌱 I’m currently working on Deep learning and Server Side Development
+- 💞️ I’m looking to collaborate on NLP projects
 - 📫 How to reach me email-> faisalk3969@gmail.com
 
 <!---
