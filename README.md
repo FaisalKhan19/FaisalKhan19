@@ -3,7 +3,7 @@
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently working on Deep learning and Server Side Development
 - 💞️ I’m looking to collaborate on NLP projects
-- 📫 How to reach me email-> faisalk3969@gmail.com
+- 📫 How to reach me email-> faisalk3996@gmail.com
 
 <!---
 FaisalKhan19/FaisalKhan19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
