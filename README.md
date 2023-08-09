@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FaisalKhan19
-- ✨ I'm a sophomre @ZHCET, AMU, Aligarh, India
+- ✨ I'm a junior @ZHCET, AMU, Aligarh, India
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently working on Deep learning and Server Side Development
 - 💞️ I’m looking to collaborate on NLP projects
