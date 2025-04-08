@@ -5,10 +5,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:faisalk3996@gmail.com)
 
 - 🔭 I’m currently pursuing a Bachelor's in Artificial Intelligence
-- 🌱 I’m currently learning everything
 - 😄 Pronouns: he/him
 - ⚡ Learning and growing every day(1% better each day)
-- ⚡ Fun fact: Gym Rat and Petrolhead
 <br/>
 
 
