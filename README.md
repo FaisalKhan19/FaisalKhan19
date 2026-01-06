@@ -10,27 +10,6 @@
 <br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkhan19&layout=compact&hide=html&theme=tokyonight" alt="mohd-adnaan" />
-
-<br />
-<br/>
- <table>
-  <tr>
-    <td>
-
-      
- <img src="https://github-readme-stats.vercel.app/api?username=faisalkhan19&show_icons=true&theme=tokyonight" alt="mohd-adnaan" />
-   </td>
-
-
-   <td>  
-
-
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalkhan19&theme=tokyonight" />
-     </td>
-      </tr>
-  </table>
-
 ### Languages Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -53,8 +32,3 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 -->
-
-
-### Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/{faisalkhan19}/count.svg)
